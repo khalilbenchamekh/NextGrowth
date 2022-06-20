@@ -1,0 +1,24 @@
+.Users{
+    position: absolute;
+    width: 70%;
+    top: 30%;
+    left: 15%;
+    min-width: 941px;
+}
+/*.UserTable.min{*/
+/*    min-width: 930px ;*/
+/*    white-space: nowrap;*/
+/*}*/
+.valide{
+    background-color: #5BE881;
+}
+.rejected{
+    background-color: #FF0000;
+}
+.on-validation{
+    background-color: #FDB64D;
+}
+td.min {
+    width: 1%;
+    white-space: nowrap;
+}
